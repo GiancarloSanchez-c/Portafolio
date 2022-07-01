@@ -1,38 +1,8 @@
 import React from 'react'
-import rm from '../assets/portfolio/rm.png'
+import portfolios from '../assets/js/Projects.js'
 
 
 const Portfolio = () => {
-
-  const portfolios = [
-    {
-      id: 1,
-      src: rm,
-      demo: 'https://rick-and-morty-giancarlosanchez-c.vercel.app/',
-      code: 'https://github.com/GiancarloSanchez-c/API---rick-and-morty'
-    },
-    {
-      id: 2,
-      src: rm,
-      demo: 'https://rick-and-morty-giancarlosanchez-c.vercel.app/',
-      code: 'https://github.com/GiancarloSanchez-c/API---rick-and-morty'
-
-    },
-    {
-      id: 3,
-      src: rm,
-      demo: 'https://rick-and-morty-giancarlosanchez-c.vercel.app/',
-      code: 'https://github.com/GiancarloSanchez-c/API---rick-and-morty'
-
-    },
-    {
-      id: 4,
-      src: rm,
-      demo: 'https://rick-and-morty-giancarlosanchez-c.vercel.app/',
-      code: 'https://github.com/GiancarloSanchez-c/API---rick-and-morty'
-
-    },
-  ]
 
   return (
     <div

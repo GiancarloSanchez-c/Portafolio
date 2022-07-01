@@ -18,14 +18,7 @@ const About = () => {
           adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
         </p>
         <br />
-        <p className="text-base ">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error dignissimos libero possimus nobis? Vel dolorum
-          adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error dignissimos libero possimus nobis? Vel dolorum
-          adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error dignissimos libero possimus nobis? Vel dolorum
-          adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
-        </p>
+       
 
       </div>
 
