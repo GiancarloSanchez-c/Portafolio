@@ -10,15 +10,14 @@ const About = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500"> About</p>
         </div>
         <p className="text-base mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error dignissimos libero possimus nobis? Vel dolorum
-          adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error dignissimos libero possimus nobis? Vel dolorum
-          adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Error dignissimos libero possimus nobis? Vel dolorum
-          adipisci deleniti a doloremque suscipit eveniet natus officiis nihil non, optio molestias vitae ad alias.
+          I am from Peru, I am 25 years old, I am passionate about programming. 
+          My hobbies are going on trips, getting to know new work and personal 
+          experiences. Currently I have 1 year learning Javascript, React, Node Js,
+           Express.js, Redux, Postgres. I am also familiar with MySQL, Sequelize, 
+           HTML, CSS, Bootstrap, Tailwind, Git, and GitHub.
         </p>
         <br />
-       
+
 
       </div>
 
